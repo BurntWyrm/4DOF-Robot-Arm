@@ -67,5 +67,5 @@ void PotAngle(int potIn){
     Serial.print(degrees);
     Serial.println(" Degrees");
     Serial.println("-----------------");
-    delay(500);
+    delay(100);
 }
